@@ -6,6 +6,7 @@
 - 3 Switches
 - 6 Pc
 - RJ45 Cable
+- Serial Cable
 
 # 2. SETUP
 
