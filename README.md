@@ -2,10 +2,10 @@
 
 # 1. No. OF DEVICES
 
-a. 2 Routers
-b. 3 Switches
-c. 6 Pc
-d. RJ45 Cable
+- 2 Routers
+- 3 Switches
+- 6 Pc
+- RJ45 Cable
 
 # 2. SETUP
 
