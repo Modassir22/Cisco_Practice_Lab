@@ -11,9 +11,10 @@
 # 2. SETUP
 
 a. Created VLAN 
-    - VLAN 10 is for HR
-    - VLAN 20 is for IT
-    - VLAN 30 is for Finance
+ - VLAN 10 is for HR
+ - VLAN 20 is for IT
+ - VLAN 30 is for Finance
+
     Points :- VLAN 10, 20 can communicate with each other but cannot from VLAN 30 because I isolated it.
 
 b. FLOW
