@@ -1,5 +1,8 @@
 # Cisco_Practice_Lab
 
+<img width="486" height="392" alt="image" src="https://github.com/user-attachments/assets/e2496dc6-15ae-4a9d-b602-bf6af0247b34" />
+
+
 # 1. No. OF DEVICES
 
 - 2 Routers
